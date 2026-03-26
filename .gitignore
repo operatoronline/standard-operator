@@ -1,0 +1,14 @@
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.DS_Store
+*.bak
+vendor/
+node_modules/
+operator-config.json
+*.db
+*.sqlite
