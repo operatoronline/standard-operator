@@ -34,7 +34,7 @@ Built from the ground up to support autonomous agents, persistent memory, and mu
 
 | Autonomous Engineering | System Automation | Information Retrieval |
 | :---: | :---: | :---: |
-| <img src="assets/operator_code.gif" width="240"> | <img src="assets/operator_memory.gif" width="240"> | <img src="assets/operator_search.gif" width="240"> |
+| <img src="assets/operator_scedule.gif" width="240"> | <img src="assets/operator_memory.gif" width="240"> | <img src="assets/operator_search.gif" width="240"> |
 | **Develop • Deploy • Scale**<br>Agents can access your local terminal and execute complex multi-step coding tasks. | **Schedule • Automate • Recall**<br>Native Cron tooling allows agents to run periodic health checks and background jobs. | **Discovery • Insights**<br>Agents can securely search the web and extract data without human intervention. |
 
 ## 🚀 Installation & Quick Start
